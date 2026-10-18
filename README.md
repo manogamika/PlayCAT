@@ -13,4 +13,8 @@ A simple app for CAT (Computer Assisted Test) available for Android and Linux (A
 
 ### Download
 
+**v0.0.0 (codename: yangirekuroneko)**
 [Download PlayCAT here](https://github.com/manogamika/PlayCAT/releases/tag/build)
+
+**v1.0.0 (codename: menheradorothy)**
+*TBA*
