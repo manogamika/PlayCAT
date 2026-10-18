@@ -1,2 +1,8 @@
+<p align="center">
+  <img src="./icon.png" alt="PlayCAT Logo" width="100" />
+</p>
+
 # PlayCAT
-a simple apps for CAT (computer Assisted Test)
+
+A simple app for CAT (Computer Assisted Test).
+
